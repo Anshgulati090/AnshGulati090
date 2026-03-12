@@ -54,9 +54,10 @@ Passionate about AI Systems, Data Science, and Scalable Backend Development
 
 AI-driven trading system where autonomous agents analyze financial data and execute strategies.
 
+🔗 https://github.com/Anshgulati090/Agentic-Trading-Application.git
+
 Tech: Python, ML, APIs, Backend Services
 
-🔗 https://github.com/Anshgulati090/Agentic-Trading-Application.git
 ---
 
 ### 🧠 MNIST Handwritten Digit Recognition
