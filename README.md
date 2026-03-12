@@ -56,6 +56,7 @@ AI-driven trading system where autonomous agents analyze financial data and exec
 
 Tech: Python, ML, APIs, Backend Services
 
+🔗 https://github.com/Anshgulati090/Agentic-Trading-Application.git
 ---
 
 ### 🧠 MNIST Handwritten Digit Recognition
