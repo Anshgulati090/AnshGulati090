@@ -13,6 +13,9 @@ Passionate about AI Systems, Data Science, and Scalable Backend Development
 <a href="mailto:anshgulatiji1802@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
+<a href="https://anshtalytics-hub-22.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-Ansh%20Analytics-blue?logo=google-chrome&style=for-the-badge">
+</a>
 </p>
 
 ---
